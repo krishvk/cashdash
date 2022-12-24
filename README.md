@@ -1,2 +1,3 @@
-# cashdash
-Personal Dashboard
+# Cash Dash
+
+The Personal Dashboard
