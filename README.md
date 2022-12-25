@@ -1,3 +1,3 @@
-# Cash Dash
+# Visus
 
 The Personal Dashboard
