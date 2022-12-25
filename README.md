@@ -1,3 +1,3 @@
-# Visus
+# Vissu
 
 The Personal Dashboard
